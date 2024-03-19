@@ -21,4 +21,3 @@ WebDriver is a crucial component of Selenium that allows interaction with web br
     
 ## Usage
 Write the phrases you want to translate in a text file, then run the program. You will be asked to enter two inputs `Translate From` and `Translate Into`. Make sure to use for example: `de` for German `ar` for Arabic.
-Here is a list of supported languages on DeepL website.
