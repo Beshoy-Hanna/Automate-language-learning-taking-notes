@@ -2,7 +2,7 @@
 # Automate Language Learning Taking Notes
 
 
-Translate any language to a target language using [DeepL](https://www.deepl.com/en/translator) translation service. The program reads German phrases from a file, translates them using Selenium automation, and saves the translations along with the original phrases in a Markdown file. You can import this Markdown file into any software to make a better looking table like Notion.
+Translate any language to a target language using [DeepL](https://www.deepl.com/en/translator) translation service. The program reads German phrases from a file, translates them using Selenium automation, and saves the translations along with the original phrases in a Markdown file. You can import this Markdown file into any software to make a better looking table like [Notion](https://www.notion.so/).
 ## Installation
 
 Selenium is a powerful tool for web automation testing. You can install it via pip by running:
