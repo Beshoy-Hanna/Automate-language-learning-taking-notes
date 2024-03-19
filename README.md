@@ -24,5 +24,7 @@ Write the phrases you want to translate in a text file, then run the program. Yo
 
 ## Screenshots
 ![Capture](https://github.com/Beshoy-Hanna/Automate-language-learning-taking-notes/assets/128662561/332fb168-a165-4b18-b6ab-f6b0f53e9492)
+
+## Import the Markdown file into Notion.
 ![Capture2](https://github.com/Beshoy-Hanna/Automate-language-learning-taking-notes/assets/128662561/043bc8ee-a43e-452a-bcd4-6d08610ff662)
 
