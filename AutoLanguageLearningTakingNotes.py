@@ -31,7 +31,7 @@ def main():
         mdfile.write("| German | Translation |\n")
         mdfile.write("| ------ | ----------- |\n")
 
-        with open('phrases.txt', 'r', encoding="utf-8") as file:
+        with open('german_phrases.txt', 'r', encoding="utf-8") as file:
             for line in file:
                 text_area.send_keys(Keys.CONTROL + "a")
                 text_area.send_keys(Keys.DELETE)
